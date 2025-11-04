@@ -69,7 +69,7 @@ def parse_html_file(uploaded_file):
 # --- Streamlit App UI ---
 
 st.set_page_config(layout="wide")
-st.title("🎬 TikTok HTML File Processor")
+st.title("🎬 Viz Alliance TikTok HTML File Processor")
 st.write("Upload one or more TikTok profile `.html` files you've saved to your computer. The app will combine them, let you view the data, and provide a download link.")
 
 # 1. File Uploader
