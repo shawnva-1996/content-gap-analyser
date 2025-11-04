@@ -1,0 +1,26 @@
+Virtual Environments
+
+venv/
+*.venv
+env/
+.env
+
+Python cache
+
+pycache/
+*.pyc
+
+OS-specific files
+
+.DS_Store
+
+IDE directories
+
+.vscode/
+.idea/
+
+Build artifacts
+
+build/
+dist/
+*.egg-info
